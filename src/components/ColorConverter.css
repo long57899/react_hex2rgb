@@ -1,0 +1,22 @@
+.body {
+    background-color: gray;
+}
+
+.box {
+    display: flex;
+    flex-direction: column;
+    width: 200px;
+}
+
+input {
+    height: 50px;
+    margin-bottom: 5px;
+}
+
+output {
+    height: 50px;
+    background-color: blue;
+    color: white;
+    border: 1px solid black;
+    padding-top: 15px;
+}
